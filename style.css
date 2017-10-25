@@ -1,0 +1,118 @@
+/* Global */
+body {
+  background-color:#3f3b3b;
+}
+
+header {
+  background-color:#8a4c96;
+}
+
+h1 {
+  font-family:'Kaushan Script', cursive;
+}
+
+h4 {
+  font-family:'Kaushan Script', cursive;
+}
+
+p {
+  font-family:'Kaushan Script', cursive;
+  text-align:center;
+  margin-top:30px;
+  font-size:19px;
+  color:black;
+}
+
+.border {
+  border:1px;
+  border-style:solid;
+  border-color:#c9bfbf;
+  border-radius:15px;
+  margin:20px;
+}
+
+a {
+  text-decoration:none;
+  color:black;
+}
+
+a:hover {
+  text-decoration:none;
+}
+
+/* header global */
+header a:hover {
+  color:black;
+}
+
+header h4 {
+  font-family:'Kaushan Script', cursive;
+  margin-top:-30px
+}
+
+/* Header h1 */
+header h1 a:hover {
+  color:black;
+}
+
+header h4 a:hover {
+  color:black;
+}
+
+/* Navigation */
+li {
+  display:inline;
+  padding:10px;
+  text-align:right;
+  font-family: 'Lobster Two', cursive;
+  font-size:22px;
+}
+nav ul li a {
+  color:white;
+}
+
+nav ul li a:hover {
+  color:black;
+}
+
+/* #top-img */
+#img #top-img {
+  width:100%;
+  height:auto;
+  text-align: center;
+  padding:auto;
+  padding-top:145px;
+}
+
+/* #about section */
+#about h1 {
+  color:white;
+}
+
+/* #testimonials */
+#testimonials h1 {
+  color:white;
+}
+
+/* #services section */
+#services h1 {
+  color:white;
+}
+
+/* #quote */
+#quote h1 {
+  color:white;
+}
+
+#quote h4 {
+  color:black;
+}
+
+/* #contact */
+#contact h1 {
+  color:white;
+}
+
+#contact h4 {
+  color:black;
+}
